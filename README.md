@@ -1,5 +1,5 @@
 
-C-Shell: A Custom-Built Shell in C 💻
+## C-Shell: A Custom-Built Shell in C 💻
 Project Overview
 C-Shell is a custom-designed command-line interface (CLI) built entirely in the C programming language. This project emulates the core functionality of a traditional Unix shell, providing a robust environment for executing commands, managing processes, and interacting with the file system. It serves as an excellent demonstration of low-level system programming, showcasing concepts like process creation, command parsing, and file I/O.
 
