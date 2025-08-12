@@ -1,0 +1,4 @@
+hop .
+reveal
+lgo
+hop check ; hop check3

@@ -1,0 +1,7 @@
+hop .
+reveal
+lgo
+hop check ; hop ~
+sleep 5 ; sleep 3
+sleep 5 & sleep 3 ; hop .
+lof
